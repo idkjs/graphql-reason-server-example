@@ -26,6 +26,7 @@
     "bs-graphql": "^0.3.1",
     "bs-graphql-tools": "^0.3.1",
     "express": "^4.15.4",
-    "graphql": "^0.10.5"
+    "graphql": "^0.10.5",
+    "graphql-tag": "^2.4.2"
   }
 }
